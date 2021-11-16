@@ -13,7 +13,7 @@ O calendário é dinâmico sem bibliotecas externas e pega a data perfeitamente.
 
 <li>
   <strong>Database: </br /></strong>
-  <i>PHPMyAdmin.</i>
+  <i>MySql.</i>
 </li>
 
 <li>
